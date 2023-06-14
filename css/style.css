@@ -46,10 +46,11 @@ body {
 
     blockquote{
       color: red;
-      font-family: 'Chillax-Bold';
+      font-family: 'Chillax-light';
     }
 
     p{
+      font-family: 'Chillax-Bold';
       color: purple;
     }
 

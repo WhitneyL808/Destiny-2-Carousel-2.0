@@ -51,7 +51,11 @@ body {
 
     p{
       font-family: 'Chillax-Bold';
-      color: purple;
+    }
+
+    div{
+      padding: 10px;
+      color:white; 
     }
 
     

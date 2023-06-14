@@ -3,18 +3,18 @@ const data = [
     {
      quote: `ARC HUNTER`, 
      icon:  '<img src="assets/classes/Hunter.svg" alt="hunter">', 
-     image: `url(assets/arc/H-arc2.jpg)`
+     image: `url(assets/Arc/H-arc2.jpg)`
 
     }, 
     {
      quote: `ARC WARLOCK`, 
      icon:  '<img src="assets/classes/Warlock.svg" alt="warlock">' , 
-     image: `url(assets/arc/W-arc.jpg)`
+     image: `url(assets/Arc/W-arc.jpg)`
     },  
     {
      quote: `ARC TITAN`, 
      icon: '<img src="assets/classes/Titan.svg" alt="titan">' , 
-     image: `url(assets/arc/T-arc.jpg)`
+     image: `url(assets/Arc/T-arc.jpg)`
     },
     {
       quote: `SOLAR HUNTER`, 
@@ -62,7 +62,7 @@ const data = [
 
   
   // Check-Check: change text
-  quote.innerHTML = "Hello world!";
+  quote.innerHTML = "Click your mouse, spacebar, or arrow keys to change your class.";
 
   // Check-Check: change emoji text
   icon.innerHTML = '🦅';

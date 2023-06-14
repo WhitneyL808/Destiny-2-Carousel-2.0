@@ -1,0 +1,56 @@
+/* Stylesheet */
+
+body {  
+    /* Font */
+    font-family: 'Chillax-Bold';
+    
+      /* Horizontal and Vertical Center */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      
+      /* Extend full height of browser  */
+      height: 100vh;
+      
+      /* Load Background Images with JS. Style with CSS */ 
+      background-size: cover;
+      background-color: yellow;
+    }
+    
+    /* Apply Font */
+    main {
+      font-size: 5vmin;
+      text-align: center;
+      border-radius: 20px;
+      
+      /* Add contrast to text */
+      background-color: rgba(255, 255, 255, 0.25);
+    }
+
+    nav{
+      display: flex;
+    }
+
+    .back{
+      margin: 10px;
+    }
+
+    .next{
+      margin: 10px;
+    }
+
+    .random{
+
+    }
+
+    blockquote{
+      color: red;
+      font-family: 'Chillax-Bold';
+    }
+
+    p{
+      color: purple;
+    }
+
+    

@@ -159,7 +159,7 @@ const data = [
   
     // display data based on array index
     quote.innerHTML = data[itemNumber].quote;
-    emoji.innerHTML = data[itemNumber].emoji;
+    icon.innerHTML = data[itemNumber].icon;
     bgImage.style.backgroundImage = data[itemNumber].image;
       
     }
@@ -178,7 +178,7 @@ const data = [
     
     // display data based on array index
     quote.innerHTML = data[itemNumber].quote;
-    emoji.innerHTML = data[itemNumber].emoji;
+    icon.innerHTML = data[itemNumber].icon;
     bgImage.style.backgroundImage = data[itemNumber].image;
     }
     
@@ -190,7 +190,7 @@ const data = [
   
       // display data based random number
       quote.innerHTML = data[randomNumber].quote;
-      emoji.innerHTML = data[randomNumber].emoji;
+      icon.innerHTML = data[randomNumber].icon;
       bgImage.style.backgroundImage = data[randomNumber].image;
     
     }

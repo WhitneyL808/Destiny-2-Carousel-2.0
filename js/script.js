@@ -12,37 +12,37 @@ const data = [
      image: `url(assets/arc/W-arc.jpg)`
     },  
     {
-     quote: `“ARC TITAN”`, 
+     quote: `ARC TITAN`, 
      icon: '<img src="assets/classes/Titan.svg" alt="titan">' , 
      image: `url(assets/arc/T-arc.jpg)`
     },
     {
-      quote: `“SOLAR HUNTER”`, 
+      quote: `SOLAR HUNTER`, 
       icon: '<img src="assets/classes/Hunter.svg" alt="hunter">', 
       image: `url(assets/solar/H-solar.jpg)`
     },
     {
-      quote: `“SOLAR WARLOCK”`, 
+      quote: `SOLAR WARLOCK`, 
       icon: '<img src="assets/classes/Warlock.svg" alt="warlock">', 
       image: `url(assets/solar/W-solar.jpg)`
     },
     {
-      quote: `“SOLAR TITAN”`, 
+      quote: `SOLAR TITAN`, 
       icon: '<img src="assets/classes/Titan.svg" alt="titan">', 
       image: `url(assets/solar/T-solar.png)`
     },
     {
-      quote: `“STASIS HUNTER”`, 
+      quote: `STASIS HUNTER`, 
       icon: '<img src="assets/classes/Hunter.svg" alt="hunter">', 
       image: `url(assets/stasis/H-stasis.jpg)`
     },
     {
-      quote: `“STASIS WARLOCK”`, 
+      quote: `STASIS WARLOCK`, 
       icon: '<img src="assets/classes/Warlock.svg" alt="warlock">', 
       image: `url(assets/stasis/W-stasis2.jpg)`
     }, 
     {
-      quote: `“STASIS TITAN”`, 
+      quote: `STASIS TITAN`, 
       icon: '<img src="assets/classes/Titan.svg" alt="titan">', 
       image: `url(assets/stasis/T-stasis.jpg)`
     }

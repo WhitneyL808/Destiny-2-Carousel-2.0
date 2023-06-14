@@ -15,7 +15,7 @@ body {
       
       /* Load Background Images with JS. Style with CSS */ 
       background-size: cover;
-      background-color: yellow;
+      background-color: black
     }
     
     /* Apply Font */
@@ -45,7 +45,7 @@ body {
     }
 
     blockquote{
-      color: red;
+      color: white;
       font-family: 'Chillax-light';
     }
 
